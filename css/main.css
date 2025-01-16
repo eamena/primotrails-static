@@ -69,6 +69,7 @@ Text Domain: Primo Trails
   text-transform: uppercase;
   top: 60px;
   left: 50px;
+  postion: absolute;
 }
 
 .hero .map_title h1 {
